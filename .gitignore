@@ -1,0 +1,5 @@
+.git
+__pycache__
+*.log
+nohup.*
+.ipynb_checkpoints

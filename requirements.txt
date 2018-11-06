@@ -1,0 +1,9 @@
+matplotlib
+numpy>=1.11.0
+jupyter
+protobuf==3.5.2
+grpcio==1.11.0
+torch==0.4.0
+pandas
+ipykernel
+# install unity-ml separately: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
